@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Me chamo Allan! 👋
 
-<!--
-**AllanCBueno/allancbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :computer:Atualmente estou em transição de carreira, trabalhei por último em uma indústria onde passei pelos setores de: almoxarifado, compras e comercial. Atualmente atuo como professor de escola pública na área de Educação Física e Biologia, o que denuncia que eu gosto muito de aprender, mas mais ainda de ensinar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :eyeglasses: Atualmente estou me aperfeiçoando em JavaScript na DevClub, no curso FullStackPro.
+
+- :grey_question: Pode me perguntar sobre qualquer coisa.
+
+- :mag_right: <b>Onde me encontrar:</b> <i>é só clicar nos ícones</i><br>
+  [<img align="left" width="30px" src="https://unpkg.com/ionicons@7.1.0/dist/svg/logo-instagram.svg">](https://www.instagram.com/allancbueno/)
+  [<img align="left" width="30px" src="https://unpkg.com/ionicons@7.1.0/dist/svg/logo-linkedin.svg">](https://www.linkedin.com/in/allancbueno/)
+  [<img align="left" width="30px" src="https://unpkg.com/ionicons@7.1.0/dist/svg/logo-whatsapp.svg">](https://api.whatsapp.com/send?phone=5515981241508)
+ <br><br>
+- :books: <b>Módulos já concluídos:</b><br>
+                      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+    <br>
+    
+- :hourglass_flowing_sand:<b>Módulo em andamento</b><br>
+                        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allancbueno)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancbueno&layout=compact)
